@@ -1,0 +1,4 @@
+	deleted:    3662210b573a8c1e576a1061be24bf59d4c15c44/missing_file.png
+	deleted:    9b70cfd7bea939c9b073567750fcc3d6280c04ba/Screenshot from 2015-02-18 15:58:32.png
+	deleted:    uploads
+
